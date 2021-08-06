@@ -1,0 +1,8 @@
+body a {
+text-decoration: none;
+color: black;
+}
+
+.d-flex-custom {
+    margin: 5px;
+}
